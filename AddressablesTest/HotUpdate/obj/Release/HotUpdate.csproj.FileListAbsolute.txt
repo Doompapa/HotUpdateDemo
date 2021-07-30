@@ -1,0 +1,8 @@
+D:\DevelopDoompapa\UnityProject\AddressablesTest\HotUpdate\bin\Release\HotUpdate.dll
+D:\DevelopDoompapa\UnityProject\AddressablesTest\HotUpdate\bin\Release\HotUpdate.pdb
+D:\DevelopDoompapa\UnityProject\AddressablesTest\HotUpdate\obj\Release\HotUpdate.csproj.AssemblyReference.cache
+D:\DevelopDoompapa\UnityProject\AddressablesTest\HotUpdate\obj\Release\HotUpdate.csproj.CoreCompileInputs.cache
+D:\DevelopDoompapa\UnityProject\AddressablesTest\HotUpdate\obj\Release\HotUpdate.dll
+D:\DevelopDoompapa\UnityProject\AddressablesTest\HotUpdate\obj\Release\HotUpdate.pdb
+D:\DevelopDoompapa\UnityProject\AddressablesTest\Assets\HotUpdate_DLL\HotUpdate.dll
+D:\DevelopDoompapa\UnityProject\AddressablesTest\Assets\HotUpdate_DLL\HotUpdate.pdb

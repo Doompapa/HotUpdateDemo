@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jimmy\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jimmy\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_AddressablesTest.1951313650.00" t="ExcludeRecursive" />
+    <e p="D:\DevelopDoompapa\UnityProject\AddressablesTest" t="IncludeRecursive">
+      <e p="AddressablesTest.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="TestEditor.cs" t="Include" />
+        </e>
+        <e p="GameManager.cs" t="Include" />
+        <e p="ILRuntime" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ILRuntimeCLRBinding.cs" t="Include" />
+            <e p="ILRuntimeCrossBinding.cs" t="Include" />
+            <e p="ILRuntimeMenu.cs" t="Include" />
+          </e>
+          <e p="Generated" t="Include">
+            <e p="CLRBindings.cs" t="Include" />
+            <e p="System_Int32_Binding.cs" t="Include" />
+            <e p="System_Object_Binding.cs" t="Include" />
+            <e p="System_Single_Binding.cs" t="Include" />
+            <e p="System_String_Binding.cs" t="Include" />
+            <e p="UnityEngine_Debug_Binding.cs" t="Include" />
+            <e p="UnityEngine_Object_Binding.cs" t="Include" />
+            <e p="UnityEngine_Quaternion_Binding.cs" t="Include" />
+            <e p="UnityEngine_Random_Binding.cs" t="Include" />
+            <e p="UnityEngine_Vector3_Binding.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="MonoBehaviourAdapter.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Samples" t="Include">
+          <e p="Addressables" t="Include">
+            <e p="1.18.13" t="Include">
+              <e p="Addressables Utility" t="Include">
+                <e p="AddressablesUtility.cs" t="Include" />
+              </e>
+              <e p="Disable AssetImport on Build" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="DisableAssetImportOnBuild.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Import Groups Tool" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="ImportExistingGroup.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Prefab Spawner" t="Include">
+                <e p="PrefabSpawnerSample.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Base" t="Include">
+            <e p="MonoSingleton.cs" t="Include" />
+            <e p="Singleton.cs" t="Include" />
+          </e>
+          <e p="DragonBones" t="Include">
+            <e p="3rdParty" t="Include">
+              <e p="MiniJSON.cs" t="Include" />
+            </e>
+            <e p="animation" t="Include">
+              <e p="Animation.cs" t="Include" />
+              <e p="AnimationState.cs" t="Include" />
+              <e p="BaseTimelineState.cs" t="Include" />
+              <e p="IAnimatable.cs" t="Include" />
+              <e p="TimelineState.cs" t="Include" />
+              <e p="WorldClock.cs" t="Include" />
+            </e>
+            <e p="armature" t="Include">
+              <e p="Armature.cs" t="Include" />
+              <e p="Bone.cs" t="Include" />
+              <e p="Constraint.cs" t="Include" />
+              <e p="DeformVertices.cs" t="Include" />
+              <e p="IArmatureProxy.cs" t="Include" />
+              <e p="Slot.cs" t="Include" />
+              <e p="TransformObject.cs" t="Include" />
+            </e>
+            <e p="core" t="Include">
+              <e p="BaseObject.cs" t="Include" />
+              <e p="DragonBones.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="AssetProcess.cs" t="Include" />
+              <e p="DragonBonesIcons.cs" t="Include" />
+              <e p="PickJsonDataWindow.cs" t="Include" />
+              <e p="ShowSlotsWindow.cs" t="Include" />
+              <e p="UnityArmatureEditor.cs" t="Include" />
+              <e p="UnityEditor.cs" t="Include" />
+            </e>
+            <e p="event" t="Include">
+              <e p="EventObject.cs" t="Include" />
+              <e p="IEventDispatcher.cs" t="Include" />
+            </e>
+            <e p="factory" t="Include">
+              <e p="BaseFactory.cs" t="Include" />
+            </e>
+            <e p="geom" t="Include">
+              <e p="ColorTransform.cs" t="Include" />
+              <e p="Matrix.cs" t="Include" />
+              <e p="Point.cs" t="Include" />
+              <e p="Rectangle.cs" t="Include" />
+              <e p="Transform.cs" t="Include" />
+            </e>
+            <e p="model" t="Include">
+              <e p="AnimationConfig.cs" t="Include" />
+              <e p="AnimationData.cs" t="Include" />
+              <e p="ArmatureData.cs" t="Include" />
+              <e p="BoundingBoxData.cs" t="Include" />
+              <e p="CanvasData.cs" t="Include" />
+              <e p="ConstraintData.cs" t="Include" />
+              <e p="DisplayData.cs" t="Include" />
+              <e p="DragonBonesData.cs" t="Include" />
+              <e p="SkinData.cs" t="Include" />
+              <e p="TextureAtlasData.cs" t="Include" />
+              <e p="UserData.cs" t="Include" />
+            </e>
+            <e p="parser" t="Include">
+              <e p="BinaryDataParser.cs" t="Include" />
+              <e p="BinaryDataReader.cs" t="Include" />
+              <e p="BinaryDataWriter.cs" t="Include" />
+              <e p="DataParser.cs" t="Include" />
+              <e p="ObjectDataParser.cs" t="Include" />
+            </e>
+            <e p="Resources" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="DB_BlendMode_Grab.shader" t="Include" />
+                <e p="DB_BlendMode_UIGrab.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="unity" t="Include">
+                <e p="MeshBuffer.cs" t="Include" />
+                <e p="UnityArmatureComponent.cs" t="Include" />
+                <e p="UnityCombineMeshs.cs" t="Include" />
+                <e p="UnityDragonBonesData.cs" t="Include" />
+                <e p="UnityEventDispatcher.cs" t="Include" />
+                <e p="UnityFactory.cs" t="Include" />
+                <e p="UnitySlot.cs" t="Include" />
+                <e p="UnityTextureAtlasData.cs" t="Include" />
+                <e p="UnityUGUIDisplay.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Manager" t="Include">
+            <e p="AddressableUpdater.cs" t="Include" />
+            <e p="HotUpdateManager.cs" t="Include" />
+            <e p="ILCodeManager.cs" t="Include" />
+          </e>
+          <e p="MonoBase.cs" t="Include" />
+          <e p="TestCube.cs" t="Include" />
+          <e p="TestCube1.cs" t="Include" />
+          <e p="TestRotate.cs" t="Include" />
+          <e p="TestRotateX.cs" t="Include" />
+        </e>
+        <e p="smcs.rsp" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
